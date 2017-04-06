@@ -14,6 +14,7 @@ $log->info($name);
 <html>
 <head>
 <title>Testing, testing</title>
+<link rel="stylesheet" type="text/css" href="background.css">
 </head>
 <body>
 <?php
