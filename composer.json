@@ -1,6 +1,6 @@
 {
     "name": "mah/testing",
-    "description": "test composer1",
+    "description": "test composer",
     "require": {
         "catfan/medoo": "^1.2",
         "slim/slim": "^3.8",
