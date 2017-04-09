@@ -1,6 +1,6 @@
 {
     "name": "mah/testing",
-    "description": "test composer",
+    "description": "Första inlämningsuppgiften som är en databas över enhörningar",
     "require": {
         "catfan/medoo": "^1.2",
         "slim/slim": "^3.8",
